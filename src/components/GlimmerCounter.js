@@ -1,4 +1,3 @@
----
 import Component from '@glimmer/component';
 import { tracked } from '@glimmer/tracking';
 import { precompileTemplate, setComponentTemplate } from '@glimmer/core';
@@ -23,4 +22,3 @@ setComponentTemplate(
 );
 
 export default MyComponent;
----
